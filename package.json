@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "app to take notes on",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Joshua Dresner",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.12.2",
+    "validator": "^10.11.0",
+    "yargs": "^13.2.2"
+  }
+}
